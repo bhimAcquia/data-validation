@@ -1,0 +1,4 @@
+openai>=1.0.0
+argparse
+streamlit>=1.32.0
+sqlfluff>=2.3.0

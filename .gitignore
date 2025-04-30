@@ -1,0 +1,8 @@
+/.DS_Store
+/.env
+/__pycache__
+/conversion_prompt_template.txt
+/nw_customer_POST_650.hql
+/nw_customer_POST_650_snowflake.sql
+/project1
+/sf_dw_customer_POST_650.sql
